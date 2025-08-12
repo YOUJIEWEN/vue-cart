@@ -2,4 +2,4 @@
 前端：
 框架：Vue3 + Element-Plus
 工具：Axios + Pinia + Vue-Router
-构建：vite 4.0.1
+构建：vite ^7.0.6
